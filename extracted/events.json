@@ -1,0 +1,482 @@
+[
+  {
+    "date": "2020-12-24",
+    "date_display": "24 Dec 2020",
+    "event": "Environmental Monitoring Performance Qualification (EMPQ) results approved by QA prior to performing manufacturing operations in Building facility.",
+    "category": "Manufacturing",
+    "significance": "Medium",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2020-12-31",
+    "date_display": "31 Dec 2020",
+    "event": "Closure Risk Assessment became effective to document operational details and environmental controls around unit operations in manufacturing facility.",
+    "category": "Manufacturing",
+    "significance": "Low",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-05-18",
+    "date_display": "18 May 2021",
+    "event": "Pfizer submitted BLA 125742/0 for COMIRNATY (BNT162b2) for active immunization to prevent COVID-19 in individuals \u226516 years of age.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-06-24",
+    "date_display": "24 Jun 2021",
+    "event": "EMA approved final protocol for study C4591021 (Post Conditional Approval Active Surveillance Study in Europe).",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-06-25",
+    "date_display": "25 Jun 2021",
+    "event": "EUA Fact Sheets updated to include new Warning about myocarditis and pericarditis following post-authorization safety signal identification.",
+    "category": "Labeling",
+    "significance": "High",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-06-30",
+    "date_display": "30 Jun 2021",
+    "event": "Investigation initiated to document deviation from protocol requirements when EMPQ was not executed with pre-approved protocol or summarized in final report.",
+    "category": "Manufacturing",
+    "significance": "Medium",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-01",
+    "date_display": "1 Jul 2021",
+    "event": "Final protocol for pregnancy registry study (C4591022) submitted to FDA for review.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-07-19",
+    "date_display": "19 Jul 2021",
+    "event": "FDA Pre-License Inspection (PLI) of Pfizer Andover facility began for BLA STN 125742/0 review of COVID-19 mRNA vaccine (COMIRNATY) drug substance manufacturing.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-22",
+    "date_display": "22 Jul 2021",
+    "event": "Drug substance batch placed on stability for product quality assessment following deviation related to control limit excursions during manufacturing.",
+    "category": "Manufacturing",
+    "significance": "Medium",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-22",
+    "date_display": "22 Jul 2021",
+    "event": "Investigation initiated to document deviation regarding failure to perform required cleaning of equipment outside surfaces during specified timeframe.",
+    "category": "Manufacturing",
+    "significance": "Low",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-23",
+    "date_display": "23 Jul 2021",
+    "event": "FDA Pre-License Inspection of Pfizer Andover concluded; thirteen-item Form FDA 483 List of Inspectional Observations was issued to the firm.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-23",
+    "date_display": "23 Jul 2021",
+    "event": "EMPQ summary report written and approved following investigation into procedural deviations.",
+    "category": "Manufacturing",
+    "significance": "Low",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-26",
+    "date_display": "26 Jul 2021",
+    "event": "Investigation initiated for alarm condition observed within manufacturing area during biosafety cabinet operations.",
+    "category": "Manufacturing",
+    "significance": "Low",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-27",
+    "date_display": "27 Jul 2021",
+    "event": "Additional investigation initiated to document deviations regarding aseptic technique and insufficient work surface sanitization during observed operations.",
+    "category": "Manufacturing",
+    "significance": "Low",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-28",
+    "date_display": "28 Jul 2021",
+    "event": "FDA issued information request asking sponsor to propose postmarketing observational safety studies for myocarditis and pericarditis risk assessment.",
+    "category": "FDA Correspondence",
+    "significance": "High",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-07-28",
+    "date_display": "28 Jul 2021",
+    "event": "Effectiveness check initiated to document effectiveness of bioburden mitigation strategy implemented per change control.",
+    "category": "Manufacturing",
+    "significance": "Low",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-07-30",
+    "date_display": "30 Jul 2021",
+    "event": "Pfizer submitted written response (Amendment STN 125742/0.25) outlining proposed corrective actions for all 13 inspectional observations.",
+    "category": "FDA Correspondence",
+    "significance": "High",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-08",
+    "date_display": "August 2021",
+    "event": "Approximately 130 patients with post-COVID-19 vaccine myocarditis identified at Pediatric Heart Network sites for prospective registry enrollment.",
+    "category": "Clinical",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08",
+    "date_display": "Aug 2021",
+    "event": "FDA review memorandum concluded that proposed corrective actions for Observation Nos. 2-13 appear acceptable and may be evaluated during next routine inspection.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-08-05",
+    "date_display": "5 Aug 2021",
+    "event": "Sponsor's Internal Review Committee met to review reactogenicity and safety data for pregnant women RCT (C4591015) and recommended study continuation.",
+    "category": "Clinical",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-06",
+    "date_display": "6 Aug 2021",
+    "event": "OBE/DE completed Pharmacovigilance Plan Review Memorandum (primary reviewer: Deborah Thompson, MD) for COMIRNATY BLA.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-10",
+    "date_display": "10 Aug 2021",
+    "event": "Sponsor responded to FDA Information Request regarding proposed myocarditis/pericarditis safety studies.",
+    "category": "FDA Correspondence",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-11",
+    "date_display": "11 Aug 2021",
+    "event": "Protocol for study C4591021 submitted to FDA for review.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-12",
+    "date_display": "12 Aug 2021",
+    "event": "CBER Safety Working Group concurred with review team's proposed postmarketing requirements (PMRs) and commitments (PMCs) for myocarditis, pericarditis, and subclinical myocarditis studies.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-12",
+    "date_display": "12 Aug 2021",
+    "event": "Product Office memorandum from Anissa Cheung evaluated firm's response to Observation No. 1 regarding insufficient data supporting product quality and found it adequate.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-08-13",
+    "date_display": "13 Aug 2021",
+    "event": "Sponsor notified of PMRs/PMCs via FDA Information Request; pregnant women RCT had 259 subjects enrolled.",
+    "category": "FDA Correspondence",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-13",
+    "date_display": "13 Aug 2021",
+    "event": "Pfizer submitted Amendment 46 (Seq 0046) containing COMIRNATY vial labels for Kalamazoo and Puurs manufacturing sites, and Hospira diluent sticker.",
+    "category": "Labeling",
+    "significance": "Medium",
+    "reference": "107A_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-16",
+    "date_display": "16 Aug 2021",
+    "event": "VAERS database queries conducted for adverse events of special interest: erythema multiforme (194 reports), glomerulonephritis/nephrotic syndrome (175 reports), and menstrual disorders (7,249 reports).",
+    "category": "Safety Signal",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-17",
+    "date_display": "17 Aug 2021",
+    "event": "FDA CBER laboratory testing performed on COMIRNATY drug product to determine lipid nanoparticle size and polydispersity index (PDI) for three lots (FC3181, FC3184, FD0809) plus assay control.",
+    "category": "Manufacturing",
+    "significance": "High",
+    "reference": "103_2_BLA 125742-0_08-20-2021_Memo_Test Results.pdf"
+  },
+  {
+    "date": "2021-08-17",
+    "date_display": "17 Aug 2021",
+    "event": "Pfizer submitted Amendment 53 (Seq 0054) containing COMIRNATY carton labels (25 and 195 vial configurations) for both manufacturing sites, plus diluent vial and carton labels from Fresenius Kabi and Hospira.",
+    "category": "Labeling",
+    "significance": "Medium",
+    "reference": "107A_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-17",
+    "date_display": "17 Aug 2021",
+    "event": "Teleconference held between FDA and Pfizer to discuss firm's responses to Observation Nos. 2b, 2c, 6, and 9c from the FDA 483.",
+    "category": "FDA Correspondence",
+    "significance": "Medium",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-08-18",
+    "date_display": "18 Aug 2021",
+    "event": "CDC data showed 201,577,973 doses of Pfizer-BioNTech COVID-19 Vaccine administered in the U.S.",
+    "category": "Milestone",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-08-18",
+    "date_display": "18 Aug 2021",
+    "event": "FDA CBER sent email to Pfizer requesting consolidation of all draft carton and container labels into a single amendment for referencing in the Approval Letter for COMIRNATY BLA STN 125742/0.",
+    "category": "FDA Correspondence",
+    "significance": "High",
+    "reference": "107A_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-18",
+    "date_display": "18 Aug 2021",
+    "event": "Pfizer submitted additional updates and commitments via Amendment STN 125742/0.60 following the August 17 teleconference.",
+    "category": "FDA Correspondence",
+    "significance": "Medium",
+    "reference": "108_BLA 125742-0_08-21-2021_Inspection Related_Inspect.pdf"
+  },
+  {
+    "date": "2021-08-19",
+    "date_display": "19 Aug 2021",
+    "event": "Pfizer submitted Dear HCP Letter as amendment 64 to the BLA for COMIRNATY (BLA STN 125742/0).",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-19",
+    "date_display": "19 Aug 2021",
+    "event": "Pfizer provided FDA with list of seven launch lot numbers (FD7220, FE3592, FF2587, FF2588, FF2590, FF2593, FF8841) for COMIRNATY vaccine.",
+    "category": "Manufacturing",
+    "significance": "Medium",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-19",
+    "date_display": "19 Aug 2021",
+    "event": "Pfizer confirmed no doses from the 7 launch lots had shipped yet; planned for September shipment with approximately one million doses remaining in Pfizer's control.",
+    "category": "Manufacturing",
+    "significance": "Medium",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-19",
+    "date_display": "19 Aug 2021",
+    "event": "Pfizer provided FDA with list of lots in the field that comply with the BLA requirements.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-19",
+    "date_display": "19 Aug 2021",
+    "event": "FDA deadline for Pfizer to submit consolidated draft labels (by 12:00pm) for COMIRNATY BLA approval preparation.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "107A_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-19",
+    "date_display": "19 Aug 2021",
+    "event": "Pfizer submitted revised carton and container labels for COMIRNATY BLA in amendment 63 (seq 0064).",
+    "category": "Labeling",
+    "significance": "Medium",
+    "reference": "107_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "CBER Product Testing Plan for COMIRNATY (COVID-19 mRNA Vaccine) established with effective date, establishing lot release requirements including protocol review and confirmatory CBER testing for BioNTech Manufacturing GmbH (License Number 2229, STN 125742).",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "100_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "COMIRNATY designated under Lot Release mode of regulation, requiring manufacturer to obtain lot-specific release from CBER before product distribution, with protocol review and confirmatory CBER testing selected as the release mechanism.",
+    "category": "Manufacturing",
+    "significance": "High",
+    "reference": "100_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "Initial version (Revision Level 01) of Product Testing Plan document created as a new document, establishing specifications for lot release protocol review including tests for filled vaccine and BNT162b2 drug substance.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "100_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "CBER issued memorandum documenting in-support sterility and bacterial endotoxin test (BET) results for three lots (FC3181, FC3184, FD0809) of COVID-19 mRNA Vaccine COMIRNATY to support BLA approval STN 125742/0.",
+    "category": "Manufacturing",
+    "significance": "High",
+    "reference": "102_1_BLA 125742-0_08-20-2021_Memo_Test Results.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "All three tested lots of COMIRNATY vaccine passed sterility testing (no growth of bacteria and fungi) by both CBER and Pfizer, meeting lot-release specifications.",
+    "category": "Manufacturing",
+    "significance": "High",
+    "reference": "102_1_BLA 125742-0_08-20-2021_Memo_Test Results.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "Bacterial endotoxin testing results from CBER confirmed Pfizer's Certificate of Analysis values, with all conformance lots meeting proposed specifications.",
+    "category": "Manufacturing",
+    "significance": "Medium",
+    "reference": "102_1_BLA 125742-0_08-20-2021_Memo_Test Results.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "Test memo issued documenting that CBER test results for lipid nanoparticle size and PDI are similar to BioNTech's firm results and meet proposed drug product specifications.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "103_2_BLA 125742-0_08-20-2021_Memo_Test Results.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "FDA CBER communicated that EUA-labeled lots in the field do not comply with the BLA since lot release activities have yet to be agreed upon and performed.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "FDA stated they would develop a lot release approach with Pfizer after initial BLA approval occurs for COMIRNATY.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "FDA instructed Pfizer to ensure EUA-labeled lots in the field are not listed on the cvdvaccine-us.com/resources website referenced in the Dear HCP Letter.",
+    "category": "Labeling",
+    "significance": "Medium",
+    "reference": "105_BLA 125742-0_08-20-2021_Telecon_Advice_Information.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "FDA CBER sent comment to Pfizer regarding vial labels for COMIRNATY (STN 125742/0), requesting additional diluent information and response by end of day.",
+    "category": "FDA Correspondence",
+    "significance": "Medium",
+    "reference": "107_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-20",
+    "date_display": "20 Aug 2021",
+    "event": "Pfizer responded that additional diluent information proposed by CBER will not fit on vial label but is already included on carton label.",
+    "category": "FDA Correspondence",
+    "significance": "Low",
+    "reference": "107_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-21",
+    "date_display": "21 Aug 2021",
+    "event": "FDA acknowledged that diluent information will not fit on vial labels and confirmed Pfizer does not need to respond to the August 20, 2021 comment regarding vial labels.",
+    "category": "FDA Correspondence",
+    "significance": "Medium",
+    "reference": "107_1_BLA 125742-0_08-20-2021_Telecon_Labeling via FAX_e.pdf"
+  },
+  {
+    "date": "2021-08-23",
+    "date_display": "23 Aug 2021",
+    "event": "CBER established Product Testing Plan for COMIRNATY (COVID-19 mRNA Vaccine) manufactured by BioNTech Manufacturing GmbH, documenting lot release requirements including protocol review and confirmatory CBER testing.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "100A_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-08-23",
+    "date_display": "23 Aug 2021",
+    "event": "COMIRNATY received BLA License Number 2229 (STN 125742) with Product ID 2501 for active immunization to prevent COVID-19 in individuals 16 years of age and older.",
+    "category": "Approval",
+    "significance": "High",
+    "reference": "100A_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-08-23",
+    "date_display": "23 Aug 2021",
+    "event": "CBER designated lot release mode requiring both protocol review and confirmatory CBER testing before manufacturer distribution, indicating enhanced regulatory oversight for this biological product.",
+    "category": "Manufacturing",
+    "significance": "High",
+    "reference": "100A_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-08-23",
+    "date_display": "23 Aug 2021",
+    "event": "Product Testing Plan approved by key CBER officials including Marion Gruber (Product Office Director), Jerry P. Weir (Product Division Director), and Maryna Eichelberger (Testing Division Director).",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "100A_BLA 125742-0_08-20-2021_Memo_Other.pdf"
+  },
+  {
+    "date": "2021-11-30",
+    "date_display": "30 Nov 2021",
+    "event": "Sponsor committed to submit final study protocol for Pediatric Heart Network prospective cohort registry study with projected sample size and statistical analysis plan.",
+    "category": "Regulatory",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2021-12",
+    "date_display": "December 2021",
+    "event": "Sponsor anticipated completion of background troponin analysis for subclinical myocarditis assessment and enrollment of approximately 450 subjects in pregnant women RCT.",
+    "category": "Clinical",
+    "significance": "Medium",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  },
+  {
+    "date": "2022-01-16",
+    "date_display": "16 Jan 2022",
+    "event": "Action due date for FDA decision on BLA 125742/0 for COMIRNATY.",
+    "category": "Regulatory",
+    "significance": "High",
+    "reference": "101_Courtesy Copy_BLA 125742-0_Pharmacovigilance Plan Review-Addendum Memo - COMIRNATY.pdf"
+  }
+]
