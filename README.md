@@ -46,6 +46,25 @@ Built for Slater and Gordon — AI Engineer case study.
 
 ## Quickstart
 
+###  Quick Demo (no PDF download needed)
+
+`extracted/events.json` is already committed — you can skip the download and extraction steps entirely.
+
+```bash
+git clone <repo-url>
+cd fda-chronology
+pip install -r requirements.txt
+export ANTHROPIC_API_KEY=your_key_here
+uvicorn app:app --reload
+# Open http://localhost:8000
+```
+
+60 pre-extracted events are ready to browse immediately. An Anthropic API key is still required for the chat Q&A feature.
+
+---
+
+### Full Extraction (optional — to process all PDFs yourself)
+
 ### 1. Clone & install
 
 ```bash
@@ -150,9 +169,3 @@ uvicorn app:app --reload
 - **Frontend**: Vanilla HTML/CSS/JS (no build step)
 - **Storage**: JSON file (POC) → PostgreSQL ready
 
----
-
-## Author
-
-Vinod Moorkoth  
-Senior Staff Data Engineer | AI Engineer candidate  
