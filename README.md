@@ -50,7 +50,7 @@ An AI-powered chronology system that extracts and explores regulatory events fro
 `extracted/events.json` is already committed — you can skip the download and extraction steps entirely.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/vinmvn/fda-chronology.git
 cd fda-chronology
 pip install -r requirements.txt
 export ANTHROPIC_API_KEY=your_key_here
@@ -67,8 +67,8 @@ uvicorn app:app --reload
 ### 1. Clone & install
 
 ```bash
-git clone <repo-url>
-cd chronology
+git clone https://github.com/vinmvn/fda-chronology.git
+cd fda-chronology
 pip install -r requirements.txt
 ```
 
