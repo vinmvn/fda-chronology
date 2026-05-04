@@ -2,7 +2,6 @@
 
 An AI-powered chronology system that extracts and explores regulatory events from FDA documents related to Pfizer-BioNTech's COMIRNATY COVID-19 vaccine (IND 019736 → BLA 125742).
 
-Built for Slater and Gordon — AI Engineer case study.
 
 ---
 
